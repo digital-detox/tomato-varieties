@@ -9,8 +9,8 @@ The UX team love the Bupa Health Information carousel http://www.bupa.co.uk/heal
 We have the following crude wireframe to work with:
 ![Tomato Slider Wireframe](/tomato-slider.png?raw=true)
 
-1. We need to build a slider to showcase the varieties of tomatos, there is no design so feel free to experiment (following the basic structure of the crude wireframe).
-2. Each slide should have an image, customer rating and description (see crude wireframe).
+1. We need to build a slider to showcase the varieties of tomatos, there is no design so feel free to experiment (following the basic structure of the wireframe).
+2. Each slide should have an image, customer rating and description (see wireframe).
 3. On a maximized desktop (min-width: 1140px) 3 tomatoes should be visible within the main content area at a time, and the slider should move 1 tomato at a time with an animation.
 4. On mobile devices (max-width: 380px) the tomato items should stack vertically only showing the first four tomato items (no carousel functionality at this size).
 5. Demonstrate the star rating interaction, on hover we show the stars filling up as the cursor moves along.
