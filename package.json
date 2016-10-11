@@ -1,5 +1,5 @@
 {
-    "name": "Tomato-varieties",
+    "name": "tomato-varieties",
     "version": "1.0.0",
     "author": {
     "name": "Digital Detox"
@@ -7,7 +7,7 @@
         "description": "",
         "repository": {
         "type": "git",
-        "url": "https://github.com/digital-detox/lorem-ipsum"
+        "url": "https://github.com/digital-detox/tomato-varieties"
     },
     "devDependencies": {
         "autoprefixer-core": "5.2.x",
@@ -17,7 +17,6 @@
         "grunt-contrib-cssmin": "^0.12.2",
         "grunt-contrib-uglify": "^0.9.1",
         "grunt-contrib-watch": "^0.6.1",
-        "grunt-php": "^1.5.0",
         "grunt-postcss": "0.5.x",
         "grunt-sass": "^1.0.0",
         "jit-grunt": "^0.9.1"
