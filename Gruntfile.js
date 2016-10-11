@@ -29,5 +29,5 @@ module.exports = function(grunt)
 
     grunt.registerTask('styles', ['sass', 'postcss', 'cssmin']);
     grunt.registerTask('scripts', ['browserify', 'uglify']);
-    grunt.registerTask('default', ['styles', 'scripts', 'php', 'watch']);
+    grunt.registerTask('default', ['styles', 'scripts', 'php']);
 };
