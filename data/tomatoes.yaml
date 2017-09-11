@@ -1,0 +1,36 @@
+- 
+    title: Better Boy
+    link: 'https://en.wikipedia.org/wiki/Better_Boy'
+    image: img/better-boy.jpg
+    description: A Better Boy tomato is approximately 12 oz.
+    rating: 2
+- 
+    title: San Marzano
+    link: 'https://en.wikipedia.org/wiki/San_Marzano_tomato'
+    image: img/san-marzano.jpg
+    description: San Marzano tomato is a variety of plum tomato.
+    rating: 2
+- 
+    title: Green Zebra
+    link: 'https://en.wikipedia.org/wiki/Green_Zebra'
+    image: img/green-zebra.jpg
+    description: Green Zebra is a tomato cultivar with dark green and yellow stripes.
+    rating: 2
+- 
+    title: Great White
+    link: 'http://www.rareseeds.com/great-white/'
+    image: img/great-white.jpg
+    description: Low yield of large pale yellow beefsteak tomatoes. Average flavor.
+    rating: 2
+- 
+    title: Santorini
+    link: 'https://en.wikipedia.org/wiki/Santorini_tomato'
+    image: img/cherry-tomato.jpg
+    description: 'The Santorini is a cherry tomato native to Santorini, Greece.'
+    rating: 2
+- 
+    title: Celebrity
+    link: 'https://en.wikipedia.org/wiki/Celebrity_tomato'
+    image: img/celebrity-fruit.jpg
+    description: 1998 All-American Selection winner. Known for good flavor.
+    rating: 4

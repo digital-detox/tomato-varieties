@@ -18,3 +18,7 @@ We have the following crude wireframe to work with:
     - the UX guys would really love the slider to loop infinitely (tomatoes should always appear in their original order).
     - the slider should stretch to the full width of the viewport, edge to edge, generating duplicate items as needed to fill the gaps, outside of the main content area items should be semi-transparent.
     - on selecting a star rating, change the rating to match what was selected.
+
+### Technical information
+
+- A sample dataset of tomatoes is provided for your convenience in [data/tomatoes.yaml](data/tomatoes.yaml).
