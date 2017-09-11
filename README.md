@@ -14,7 +14,7 @@ We have the following crude wireframe to work with:
 3. On a maximized desktop (`min-width: 1140px`) 3 images should be visible within the main content area at a time. The slider should move one image at a time with an animation.
 4. On mobile devices (`max-width: 480px`) the images should stack vertically only showing the first four images (no carousel functionality at this size).
 5. Demonstrate the star rating interaction, on hover we show the stars filling up as the cursor moves along. Remember, accessibilty matters in modern web development.
-5. If we can squeeze it in: 
+6. If we can squeeze it in: 
     - the UX guys would really love the slider to loop infinitely (tomatoes should always appear in their original order).
     - the slider should stretch to the full width of the viewport, edge to edge, generating duplicate items as needed to fill the gaps, outside of the main content area items should be semi-transparent.
     - on selecting a star rating, change the rating to match what was selected.
