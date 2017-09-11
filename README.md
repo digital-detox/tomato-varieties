@@ -10,7 +10,7 @@ The UX team love the Bupa Health Information carousel http://www.bupa.co.uk/heal
 We have the following crude wireframe to work with:
 ![Tomato Slider Wireframe](/tomato-slider.png?raw=true)
 
-1. We need to build a slider to showcase the varieties of tomatos. Each slide should have an image, customer rating, and description (see wireframe).
+1. We need to build a slider to showcase the varieties of tomatoes. Each slide should have an image, customer rating, and description (see wireframe).
 2. On a maximized desktop (`min-width: 1140px`) 3 images should be visible within the main content area at a time. The slider should move one image at a time with an animation.
 3. On mobile devices (`max-width: 480px`) the images should stack vertically only showing the first four images (no carousel functionality at this size).
 4. Star ratings:
