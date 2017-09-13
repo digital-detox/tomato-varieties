@@ -25,3 +25,6 @@ We have the following crude wireframe to work with:
 ### Technical information
 
 - A sample dataset of tomatoes is provided for your convenience in [data/tomatoes.yaml](data/tomatoes.yaml).
+- A fairly bare-bones Grunt configuration is provided which does JS bundling and SCSS compilation. You _may_ change it or even replace it entirely if you find it necessary to do so, but obviously keep in mind the time constraints.
+    - `grunt` or `grunt build` builds the application.
+    - `grunt serve` opens a local development server, with live reloading via Browsersync.
