@@ -24,9 +24,22 @@ module.exports = function(grunt)
         cssmin: require('./grunt/cssmin'),
         browserify: require('./grunt/browserify'),
         uglify: require('./grunt/uglify'),
+        browserSync: {
+            bsFiles: {
+                src : ['js/*.js', 'img/*', 'css/*.css', '*.html']
+            },
+            options: {
+                watchTask: true,
+                server: {
+                    baseDir: "./"
+                }
+            }
+        }
     });
 
     grunt.registerTask('styles', ['sass', 'postcss', 'cssmin']);
     grunt.registerTask('scripts', ['browserify', 'uglify']);
-    grunt.registerTask('default', ['styles', 'scripts']);
+    grunt.registerTask('build', ['styles', 'scripts']);
+    grunt.registerTask('serve', ['build', 'browserSync', 'watch']);
+    grunt.registerTask('default', ['build']);
 };
